@@ -6,6 +6,13 @@ https://github.com/Azure/azure-storage-blob-go/issues/35
 Hopefully this will be resolved soon, and this package can then be removed. Meanwhile I'll keep it here for all of the broken libraries out there to use. 
 
 
+[![GoDoc](https://godoc.org/github.com/FrenchBen/azure-storage-go?status.svg)](https://godoc.org/github.com/FrenchBen/azure-storage-go)
+[![TravisCI](https://travis-ci.org/FrenchBen/azure-storage-go.svg?branch=master)](https://travis-ci.org/FrenchBen/azure-storage-go)
+[![Go Report Card](https://goreportcard.com/badge/github.com/FrenchBen/azure-storage-go)](https://goreportcard.com/report/github.com/FrenchBen/azure-storage-go)
+[![Badge Badge](http://doyouevenbadge.com/github.com/FrenchBen/azure-storage-go)](http://doyouevenbadge.com)
+
+
+
 
 
 # Azure Storage SDK for Go (Preview)
