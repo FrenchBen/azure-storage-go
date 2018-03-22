@@ -1,3 +1,13 @@
+# Disclaimer
+This is not affiliated with anything Azure is doing, nor is it the proper copy of the original Azure/azure-storage-go package.
+An issue has been filed to express the lack of care from Azure with Go developers and the use of their package. Issue can be found here:
+https://github.com/Azure/azure-storage-blob-go/issues/35
+
+Hopefully this will be resolved soon, and this package can then be removed. Meanwhile I'll keep it here for all of the broken libraries out there to use. 
+
+
+
+
 # Azure Storage SDK for Go (Preview)
 
 :exclamation: IMPORTANT: This package is in maintenance only and will be deprecated in the
